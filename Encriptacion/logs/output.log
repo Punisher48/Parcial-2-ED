@@ -1,0 +1,2495 @@
+2025-09-11 12:37:56 [INFO] main.Main - Iniciando programa...
+2025-09-11 12:37:58 [INFO] main.Main - Procesando frase #1
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase completa: The more you praise and celebrate your life, the more there is in life to celebrate. 
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: The
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 85
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   T (84) + 1 = 85
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 3 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 5 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 85 -> 107 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 85 -> 106 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: more
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   m (109) + 1 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 119
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 5 = 119
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 7 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 110 -> 114 -> 119 -> 108 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 110 -> 108 -> 119 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: you
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 122
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   y (121) + 1 = 122
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 122
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   u (117) + 5 = 122
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 122 -> 114 -> 122 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 122 -> 122 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: praise
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   p (112) + 1 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 3 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 102
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 5 = 102
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 7 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 124
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 9 = 124
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 11 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 117 -> 102 -> 112 -> 124 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 113 -> 112 -> 102 -> 112 -> 124 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: and
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 98
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 1 = 98
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 3 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 105
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   d (100) + 5 = 105
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> 113 -> 105 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 98 -> 105 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: celebrate
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 100
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   c (99) + 1 = 100
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 3 = 104
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 5 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 7 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   b (98) + 9 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 125
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 11 = 125
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 13 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 131
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 15 = 131
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 17 = 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 100 -> 104 -> 113 -> 108 -> 107 -> 125 -> 110 -> 131 -> 118 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 100 -> 108 -> 113 -> 125 -> 107 -> 131 -> 110 -> 118 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: your
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 122
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   y (121) + 1 = 122
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 122
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   u (117) + 5 = 122
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 121
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 7 = 121
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 122 -> 114 -> 122 -> 121 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 122 -> 121 -> 122 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: life,
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 109
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 1 = 109
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 3 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   f (102) + 5 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 7 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 53
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   , (44) + 9 = 53
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 108 -> 107 -> 108 -> 53 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 108 -> 109 -> 108 -> 107 -> 53 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: the
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 3 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 5 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 106 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: more
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   m (109) + 1 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 119
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 5 = 119
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 7 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 110 -> 114 -> 119 -> 108 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 110 -> 108 -> 119 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: there
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 3 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 5 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 121
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 7 = 121
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 9 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 106 -> 121 -> 110 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 121 -> 106 -> 110 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: is
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 1 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 3 = 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 106 -> 118 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 118 -> 106 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: in
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 1 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 3 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 106 -> 113 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 106 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: life
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 109
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 1 = 109
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 3 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   f (102) + 5 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 7 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 108 -> 107 -> 108 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 108 -> 109 -> 108 -> 107 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: to
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 117 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: celebrate.
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 100
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   c (99) + 1 = 100
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 3 = 104
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 5 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 7 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   b (98) + 9 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 125
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 11 = 125
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 13 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 131
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 15 = 131
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 17 = 118
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 65
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   . (46) + 19 = 65
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 100 -> 104 -> 113 -> 108 -> 107 -> 125 -> 110 -> 131 -> 118 -> 65 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 100 -> 108 -> 113 -> 125 -> 107 -> 131 -> 110 -> 65 -> 118 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] main.Main - Tiempo de procesamiento frase #1: 48 ms
+
+2025-09-11 12:37:58 [INFO] main.Main - Procesando frase #2
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase completa: I would rather be a little nobody, then to be an evil somebody.
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: I
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 74
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   I (73) + 1 = 74
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 74 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 74 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: would
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 120
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   w (119) + 1 = 120
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 122
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   u (117) + 5 = 122
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 115
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 7 = 115
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 109
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   d (100) + 9 = 109
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 120 -> 114 -> 122 -> 115 -> 109 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 120 -> 115 -> 122 -> 109 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: rather
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 115
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 1 = 115
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 100
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 3 = 100
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 121
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 5 = 121
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 111
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 7 = 111
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 9 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 125
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 11 = 125
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 115 -> 100 -> 121 -> 111 -> 110 -> 125 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 100 -> 115 -> 111 -> 121 -> 125 -> 110 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: be
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 99
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   b (98) + 1 = 99
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 3 = 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 99 -> 104 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 99 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: a
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 98
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 1 = 98
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: little
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 109
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 1 = 109
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 3 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 121
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 5 = 121
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 7 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 9 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 11 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 108 -> 121 -> 123 -> 117 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 108 -> 109 -> 123 -> 121 -> 112 -> 117 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: nobody,
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 111
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 1 = 111
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 103
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   b (98) + 5 = 103
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 7 = 118
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 109
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   d (100) + 9 = 109
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 132
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   y (121) + 11 = 132
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 57
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   , (44) + 13 = 57
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 111 -> 114 -> 103 -> 118 -> 109 -> 132 -> 57 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 111 -> 118 -> 103 -> 132 -> 109 -> 57 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: then
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 3 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 5 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 7 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 106 -> 117 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 117 -> 106 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: to
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 117 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: be
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 99
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   b (98) + 1 = 99
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 3 = 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 99 -> 104 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 99 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: an
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 98
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 1 = 98
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 3 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> 113 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 98 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: evil
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 102
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 1 = 102
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 121
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   v (118) + 3 = 121
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 5 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 115
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 7 = 115
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 102 -> 121 -> 110 -> 115 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 121 -> 102 -> 115 -> 110 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: somebody.
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 116
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 1 = 116
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   m (109) + 5 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 7 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   b (98) + 9 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 122
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 11 = 122
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   d (100) + 13 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 136
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   y (121) + 15 = 136
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 63
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   . (46) + 17 = 63
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 116 -> 114 -> 114 -> 108 -> 107 -> 122 -> 113 -> 136 -> 63 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 116 -> 108 -> 114 -> 122 -> 107 -> 136 -> 113 -> 63 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] main.Main - Tiempo de procesamiento frase #2: 17 ms
+
+2025-09-11 12:37:58 [INFO] main.Main - Procesando frase #3
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase completa: It's the job that's never started that takes the longest to finish.
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: It's
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 74
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   I (73) + 1 = 74
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 119
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 3 = 119
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 44
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   ' (39) + 5 = 44
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 122
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 7 = 122
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 74 -> 119 -> 44 -> 122 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 119 -> 74 -> 122 -> 44 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: the
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 3 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 5 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 106 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: job
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   j (106) + 1 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 103
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   b (98) + 5 = 103
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 114 -> 103 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 107 -> 103 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: that's
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 3 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 102
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 5 = 102
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 7 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 48
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   ' (39) + 9 = 48
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 126
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 11 = 126
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 102 -> 123 -> 48 -> 126 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 123 -> 102 -> 126 -> 48 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: never
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 111
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 1 = 111
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 3 = 104
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   v (118) + 5 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 7 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 9 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 111 -> 104 -> 123 -> 108 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 111 -> 108 -> 123 -> 123 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: started
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 116
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 1 = 116
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 119
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 3 = 119
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 102
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 5 = 102
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 121
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 7 = 121
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 125
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 9 = 125
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 11 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   d (100) + 13 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 116 -> 119 -> 102 -> 121 -> 125 -> 112 -> 113 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 119 -> 116 -> 121 -> 102 -> 112 -> 125 -> 113 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: that
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 3 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 102
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 5 = 102
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 7 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 102 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 123 -> 102 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: takes
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 100
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 3 = 100
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   k (107) + 5 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 7 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 124
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 9 = 124
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 100 -> 112 -> 108 -> 124 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 100 -> 117 -> 108 -> 112 -> 124 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: the
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 3 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 5 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 106 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: longest
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 109
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 1 = 109
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 115
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 5 = 115
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   g (103) + 7 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 9 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 126
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 11 = 126
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 129
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 13 = 129
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 114 -> 115 -> 110 -> 110 -> 126 -> 129 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 109 -> 110 -> 115 -> 126 -> 110 -> 129 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: to
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 117 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: finish.
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 103
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   f (102) + 1 = 103
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 3 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 115
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 5 = 115
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 7 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 124
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 9 = 124
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 115
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 11 = 115
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 59
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   . (46) + 13 = 59
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 103 -> 108 -> 115 -> 112 -> 124 -> 115 -> 59 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 108 -> 103 -> 112 -> 115 -> 115 -> 124 -> 59 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] main.Main - Tiempo de procesamiento frase #3: 8 ms
+
+2025-09-11 12:37:58 [INFO] main.Main - Procesando frase #4
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase completa: What most people need to learn in life is how to love people and use things instead of using people and loving things.
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: What
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 88
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   W (87) + 1 = 88
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 3 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 102
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 5 = 102
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 7 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 88 -> 107 -> 102 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 88 -> 123 -> 102 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: most
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   m (109) + 1 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 120
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 5 = 120
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 7 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 110 -> 114 -> 120 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 110 -> 123 -> 120 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: people
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   p (112) + 1 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 3 = 104
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 116
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 5 = 116
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 119
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   p (112) + 7 = 119
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 9 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 11 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 104 -> 116 -> 119 -> 117 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 113 -> 119 -> 116 -> 112 -> 117 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: need
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 111
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 1 = 111
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 3 = 104
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 5 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   d (100) + 7 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 111 -> 104 -> 106 -> 107 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 111 -> 107 -> 106 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: to
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 117 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: learn
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 109
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 1 = 109
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 3 = 104
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 102
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 5 = 102
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 121
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 7 = 121
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 119
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 9 = 119
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 104 -> 102 -> 121 -> 119 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 109 -> 121 -> 102 -> 119 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: in
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 1 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 3 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 106 -> 113 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 106 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: life
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 109
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 1 = 109
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 3 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   f (102) + 5 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 7 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 108 -> 107 -> 108 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 108 -> 109 -> 108 -> 107 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: is
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 1 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 3 = 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 106 -> 118 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 118 -> 106 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: how
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 105
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 1 = 105
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 124
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   w (119) + 5 = 124
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 105 -> 114 -> 124 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 105 -> 124 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: to
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 117 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: love
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 109
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 1 = 109
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   v (118) + 5 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 7 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 114 -> 123 -> 108 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 109 -> 108 -> 123 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: people
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   p (112) + 1 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 3 = 104
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 116
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 5 = 116
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 119
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   p (112) + 7 = 119
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 9 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 11 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 104 -> 116 -> 119 -> 117 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 113 -> 119 -> 116 -> 112 -> 117 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: and
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 98
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 1 = 98
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 3 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 105
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   d (100) + 5 = 105
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> 113 -> 105 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 98 -> 105 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: use
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   u (117) + 1 = 118
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 3 = 118
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 5 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 118 -> 118 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 118 -> 118 -> 106 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: things
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 3 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 5 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 7 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   g (103) + 9 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 126
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 11 = 126
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 110 -> 117 -> 112 -> 126 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 117 -> 110 -> 126 -> 112 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: instead
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 1 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 3 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 120
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 5 = 120
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 7 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 9 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 11 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   d (100) + 13 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 106 -> 113 -> 120 -> 123 -> 110 -> 108 -> 113 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 106 -> 123 -> 120 -> 108 -> 110 -> 113 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: of
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 1 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 105
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   f (102) + 3 = 105
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 112 -> 105 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 105 -> 112 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: using
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   u (117) + 1 = 118
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 3 = 118
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 5 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 7 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   g (103) + 9 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 118 -> 118 -> 110 -> 117 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 118 -> 118 -> 117 -> 110 -> 112 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: people
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   p (112) + 1 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 3 = 104
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 116
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 5 = 116
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 119
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   p (112) + 7 = 119
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 9 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 11 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 104 -> 116 -> 119 -> 117 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 113 -> 119 -> 116 -> 112 -> 117 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: and
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 98
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 1 = 98
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 3 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 105
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   d (100) + 5 = 105
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> 113 -> 105 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 98 -> 105 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: loving
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 109
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 1 = 109
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   v (118) + 5 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 7 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 119
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 9 = 119
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   g (103) + 11 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 114 -> 123 -> 112 -> 119 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 109 -> 112 -> 123 -> 114 -> 119 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: things.
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 3 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 5 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 7 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   g (103) + 9 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 126
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 11 = 126
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 59
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   . (46) + 13 = 59
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 110 -> 117 -> 112 -> 126 -> 59 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 117 -> 110 -> 126 -> 112 -> 59 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] main.Main - Tiempo de procesamiento frase #4: 12 ms
+
+2025-09-11 12:37:58 [INFO] main.Main - Procesando frase #5
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase completa: Life must be a constant education; one must learn everything, from speaking to dying.
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: Life
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 77
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   L (76) + 1 = 77
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 3 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 107
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   f (102) + 5 = 107
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 7 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 77 -> 108 -> 107 -> 108 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 108 -> 77 -> 108 -> 107 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: must
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   m (109) + 1 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 120
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   u (117) + 3 = 120
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 120
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 5 = 120
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 7 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 110 -> 120 -> 120 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 120 -> 110 -> 123 -> 120 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: be
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 99
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   b (98) + 1 = 99
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 3 = 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 99 -> 104 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 99 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: a
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 98
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 1 = 98
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: constant
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 100
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   c (99) + 1 = 100
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 115
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 5 = 115
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 122
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 7 = 122
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 125
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 9 = 125
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 108
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 11 = 108
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 13 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 131
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 15 = 131
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 100 -> 114 -> 115 -> 122 -> 125 -> 108 -> 123 -> 131 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 100 -> 122 -> 115 -> 108 -> 125 -> 131 -> 123 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: education;
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 102
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 1 = 102
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 103
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   d (100) + 3 = 103
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 122
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   u (117) + 5 = 122
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   c (99) + 7 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 9 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 127
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 11 = 127
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 13 = 118
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 126
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 15 = 126
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 127
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 17 = 127
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 78
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   ; (59) + 19 = 78
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 102 -> 103 -> 122 -> 106 -> 106 -> 127 -> 118 -> 126 -> 127 -> 78 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 103 -> 102 -> 106 -> 122 -> 127 -> 106 -> 126 -> 118 -> 78 -> 127 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: one
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 1 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 113
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 3 = 113
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 5 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 112 -> 113 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 112 -> 106 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: must
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   m (109) + 1 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 120
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   u (117) + 3 = 120
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 120
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 5 = 120
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 7 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 110 -> 120 -> 120 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 120 -> 110 -> 123 -> 120 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: learn
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 109
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   l (108) + 1 = 109
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 3 = 104
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 102
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 5 = 102
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 121
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 7 = 121
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 119
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 9 = 119
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 104 -> 102 -> 121 -> 119 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 109 -> 121 -> 102 -> 119 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: everything,
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 102
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 1 = 102
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 121
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   v (118) + 3 = 121
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 5 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 121
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 7 = 121
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 130
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   y (121) + 9 = 130
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 127
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 11 = 127
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   h (104) + 13 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 120
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 15 = 120
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 127
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 17 = 127
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 122
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   g (103) + 19 = 122
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 65
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   , (44) + 21 = 65
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 102 -> 121 -> 106 -> 121 -> 130 -> 127 -> 117 -> 120 -> 127 -> 122 -> 65 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 121 -> 102 -> 121 -> 106 -> 127 -> 130 -> 120 -> 117 -> 122 -> 127 -> 65 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: from
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 103
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   f (102) + 1 = 103
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   r (114) + 3 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 116
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 5 = 116
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 116
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   m (109) + 7 = 116
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 103 -> 117 -> 116 -> 116 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 103 -> 116 -> 116 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: speaking
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 116
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   s (115) + 1 = 116
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 115
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   p (112) + 3 = 115
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 106
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   e (101) + 5 = 106
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 104
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   a (97) + 7 = 104
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 116
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   k (107) + 9 = 116
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 116
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 11 = 116
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 123
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 13 = 123
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   g (103) + 15 = 118
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 116 -> 115 -> 106 -> 104 -> 116 -> 116 -> 123 -> 118 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 115 -> 116 -> 104 -> 106 -> 116 -> 116 -> 118 -> 123 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: to
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   t (116) + 1 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   o (111) + 3 = 114
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 117 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra: dying.
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 101
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   d (100) + 1 = 101
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 124
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   y (121) + 3 = 124
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 110
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   i (105) + 5 = 110
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 117
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   n (110) + 7 = 117
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 112
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   g (103) + 9 = 112
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Nodo insertado: 57
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   . (46) + 11 = 57
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 101 -> 124 -> 110 -> 117 -> 112 -> 57 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de intercambiar:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 124 -> 101 -> 117 -> 110 -> 57 -> 112 -> null
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] main.Main - Tiempo de procesamiento frase #5: 4 ms
+
+2025-09-11 12:37:58 [INFO] main.Main - === FASE #2: DESENCRIPTACION ===
+2025-09-11 12:37:58 [INFO] main.Main - Desencriptando frase #1
+2025-09-11 12:37:58 [INFO] modelo.Frase - === PROCESO DE DESENCRIPTACION ===
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase encriptada (texto): kUj rnlw rzz uqpfp| qbi hdlq}knv rzyz lmlk5 kuj rnlw kuyjn vj qj lmlk ru hdlq}knAv
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #1
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 85 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 85 -> 107 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   85 - 1 = 84 (T)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 3 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 5 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: The
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #2
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 110 -> 108 -> 119 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 110 -> 114 -> 119 -> 108 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 1 = 109 (m)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   119 - 5 = 114 (r)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 7 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: more
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #3
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 122 -> 122 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 122 -> 114 -> 122 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   122 - 1 = 121 (y)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   122 - 5 = 117 (u)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: you
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #4
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 113 -> 112 -> 102 -> 112 -> 124 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 117 -> 102 -> 112 -> 124 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 1 = 112 (p)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 3 = 114 (r)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   102 - 5 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 7 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   124 - 9 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 11 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: praise
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #5
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 98 -> 105 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> 113 -> 105 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   98 - 1 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 3 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   105 - 5 = 100 (d)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: and
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #6
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 100 -> 108 -> 113 -> 125 -> 107 -> 131 -> 110 -> 118 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 100 -> 104 -> 113 -> 108 -> 107 -> 125 -> 110 -> 131 -> 118 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   100 - 1 = 99 (c)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   104 - 3 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 5 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 7 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 9 = 98 (b)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   125 - 11 = 114 (r)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 13 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   131 - 15 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   118 - 17 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: celebrate
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #7
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 122 -> 121 -> 122 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 122 -> 114 -> 122 -> 121 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   122 - 1 = 121 (y)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   122 - 5 = 117 (u)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   121 - 7 = 114 (r)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: your
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #8
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 108 -> 109 -> 108 -> 107 -> 53 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 108 -> 107 -> 108 -> 53 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   109 - 1 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 3 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 5 = 102 (f)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 7 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   53 - 9 = 44 (,)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: life,
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #9
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 3 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 5 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: the
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #10
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 110 -> 108 -> 119 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 110 -> 114 -> 119 -> 108 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 1 = 109 (m)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   119 - 5 = 114 (r)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 7 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: more
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #11
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 121 -> 106 -> 110 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 106 -> 121 -> 110 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 3 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 5 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   121 - 7 = 114 (r)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 9 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: there
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #12
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 118 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 106 -> 118 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 1 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   118 - 3 = 115 (s)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: is
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #13
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 106 -> 113 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 1 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 3 = 110 (n)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: in
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #14
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 108 -> 109 -> 108 -> 107 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 108 -> 107 -> 108 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   109 - 1 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 3 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 5 = 102 (f)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 7 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: life
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #15
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 117 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: to
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #16
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 100 -> 108 -> 113 -> 125 -> 107 -> 131 -> 110 -> 65 -> 118 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 100 -> 104 -> 113 -> 108 -> 107 -> 125 -> 110 -> 131 -> 118 -> 65 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   100 - 1 = 99 (c)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   104 - 3 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 5 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 7 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 9 = 98 (b)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   125 - 11 = 114 (r)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 13 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   131 - 15 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   118 - 17 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   65 - 19 = 46 (.)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: celebrate.
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase desencriptada completa: The more you praise and celebrate your life, the more there is in life to celebrate.
+
+2025-09-11 12:37:58 [INFO] main.Main - Desencriptando frase #2
+2025-09-11 12:37:58 [INFO] modelo.Frase - === PROCESO DE DESENCRIPTACION ===
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase encriptada (texto): J rxszm dsoy}n hc b lm{ypu rovgm9 kuuj ru hc qb yfsn rtlrzkq?
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #1
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 74 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 74 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   74 - 1 = 73 (I)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: I
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #2
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 120 -> 115 -> 122 -> 109 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 120 -> 114 -> 122 -> 115 -> 109 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   120 - 1 = 119 (w)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   122 - 5 = 117 (u)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   115 - 7 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   109 - 9 = 100 (d)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: would
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #3
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 100 -> 115 -> 111 -> 121 -> 125 -> 110 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 115 -> 100 -> 121 -> 111 -> 110 -> 125 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   115 - 1 = 114 (r)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   100 - 3 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   121 - 5 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   111 - 7 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 9 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   125 - 11 = 114 (r)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: rather
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #4
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 99 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 99 -> 104 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   99 - 1 = 98 (b)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   104 - 3 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: be
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #5
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   98 - 1 = 97 (a)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: a
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #6
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 108 -> 109 -> 123 -> 121 -> 112 -> 117 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 108 -> 121 -> 123 -> 117 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   109 - 1 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 3 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   121 - 5 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 7 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 9 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 11 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: little
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #7
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 111 -> 118 -> 103 -> 132 -> 109 -> 57 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 111 -> 114 -> 103 -> 118 -> 109 -> 132 -> 57 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   111 - 1 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   103 - 5 = 98 (b)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   118 - 7 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   109 - 9 = 100 (d)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   132 - 11 = 121 (y)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   57 - 13 = 44 (,)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: nobody,
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #8
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 117 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 106 -> 117 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 3 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 5 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 7 = 110 (n)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: then
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #9
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 117 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: to
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #10
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 99 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 99 -> 104 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   99 - 1 = 98 (b)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   104 - 3 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: be
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #11
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 98 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> 113 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   98 - 1 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 3 = 110 (n)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: an
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #12
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 121 -> 102 -> 115 -> 110 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 102 -> 121 -> 110 -> 115 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   102 - 1 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   121 - 3 = 118 (v)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 5 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   115 - 7 = 108 (l)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: evil
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #13
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 116 -> 108 -> 114 -> 122 -> 107 -> 136 -> 113 -> 63 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 116 -> 114 -> 114 -> 108 -> 107 -> 122 -> 113 -> 136 -> 63 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   116 - 1 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 5 = 109 (m)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 7 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 9 = 98 (b)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   122 - 11 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 13 = 100 (d)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   136 - 15 = 121 (y)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   63 - 17 = 46 (.)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: somebody.
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase desencriptada completa: I would rather be a little nobody, then to be an evil somebody.
+
+2025-09-11 12:37:58 [INFO] main.Main - Desencriptando frase #3
+2025-09-11 12:37:58 [INFO] modelo.Frase - === PROCESO DE DESENCRIPTACION ===
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase encriptada (texto): wJz, kuj rkg ku{f~0 hol{{ wtyfp}q ku{f dulp| kuj rmns~n ru lgpss|;
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #1
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 119 -> 74 -> 122 -> 44 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 74 -> 119 -> 44 -> 122 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   74 - 1 = 73 (I)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   119 - 3 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   44 - 5 = 39 (')
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   122 - 7 = 115 (s)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: It's
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #2
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 3 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 5 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: the
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #3
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 107 -> 103 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 114 -> 103 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 1 = 106 (j)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   103 - 5 = 98 (b)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: job
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #4
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 123 -> 102 -> 126 -> 48 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 102 -> 123 -> 48 -> 126 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 3 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   102 - 5 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 7 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   48 - 9 = 39 (')
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   126 - 11 = 115 (s)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: that's
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #5
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 111 -> 108 -> 123 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 111 -> 104 -> 123 -> 108 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   111 - 1 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   104 - 3 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 5 = 118 (v)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 7 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 9 = 114 (r)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: never
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #6
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 119 -> 116 -> 121 -> 102 -> 112 -> 125 -> 113 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 116 -> 119 -> 102 -> 121 -> 125 -> 112 -> 113 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   116 - 1 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   119 - 3 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   102 - 5 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   121 - 7 = 114 (r)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   125 - 9 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 11 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 13 = 100 (d)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: started
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #7
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 123 -> 102 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 102 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 3 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   102 - 5 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 7 = 116 (t)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: that
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #8
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 100 -> 117 -> 108 -> 112 -> 124 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 100 -> 112 -> 108 -> 124 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   100 - 3 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 5 = 107 (k)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 7 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   124 - 9 = 115 (s)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: takes
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #9
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 3 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 5 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: the
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #10
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 109 -> 110 -> 115 -> 126 -> 110 -> 129 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 114 -> 115 -> 110 -> 110 -> 126 -> 129 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   109 - 1 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   115 - 5 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 7 = 103 (g)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 9 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   126 - 11 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   129 - 13 = 116 (t)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: longest
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #11
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 117 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: to
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #12
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 108 -> 103 -> 112 -> 115 -> 115 -> 124 -> 59 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 103 -> 108 -> 115 -> 112 -> 124 -> 115 -> 59 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   103 - 1 = 102 (f)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 3 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   115 - 5 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 7 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   124 - 9 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   115 - 11 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   59 - 13 = 46 (.)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: finish.
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase desencriptada completa: It's the job that's never started that takes the longest to finish.
+
+2025-09-11 12:37:58 [INFO] main.Main - Desencriptando frase #4
+2025-09-11 12:37:58 [INFO] modelo.Frase - === PROCESO DE DESENCRIPTACION ===
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase encriptada (texto): kX{f rn{x hqwtpu hokj ru hmyfw qj lmlk vj ri| ru rml{ hqwtpu qbi vvj kuun~p qj{xlnq ip vvunp hqwtpu qbi rmp{rw kuun~p;
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #1
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 88 -> 123 -> 102 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 88 -> 107 -> 102 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   88 - 1 = 87 (W)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 3 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   102 - 5 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 7 = 116 (t)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: What
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #2
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 110 -> 123 -> 120 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 110 -> 114 -> 120 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 1 = 109 (m)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   120 - 5 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 7 = 116 (t)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: most
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #3
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 113 -> 119 -> 116 -> 112 -> 117 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 104 -> 116 -> 119 -> 117 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 1 = 112 (p)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   104 - 3 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   116 - 5 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   119 - 7 = 112 (p)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 9 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 11 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: people
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #4
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 111 -> 107 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 111 -> 104 -> 106 -> 107 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   111 - 1 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   104 - 3 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 5 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 7 = 100 (d)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: need
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #5
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 117 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: to
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #6
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 109 -> 121 -> 102 -> 119 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 104 -> 102 -> 121 -> 119 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   109 - 1 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   104 - 3 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   102 - 5 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   121 - 7 = 114 (r)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   119 - 9 = 110 (n)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: learn
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #7
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 106 -> 113 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 1 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 3 = 110 (n)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: in
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #8
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 108 -> 109 -> 108 -> 107 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 108 -> 107 -> 108 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   109 - 1 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 3 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 5 = 102 (f)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 7 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: life
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #9
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 118 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 106 -> 118 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 1 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   118 - 3 = 115 (s)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: is
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #10
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 105 -> 124 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 105 -> 114 -> 124 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   105 - 1 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   124 - 5 = 119 (w)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: how
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #11
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 117 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: to
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #12
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 109 -> 108 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 114 -> 123 -> 108 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   109 - 1 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 5 = 118 (v)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 7 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: love
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #13
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 113 -> 119 -> 116 -> 112 -> 117 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 104 -> 116 -> 119 -> 117 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 1 = 112 (p)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   104 - 3 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   116 - 5 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   119 - 7 = 112 (p)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 9 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 11 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: people
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #14
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 98 -> 105 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> 113 -> 105 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   98 - 1 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 3 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   105 - 5 = 100 (d)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: and
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #15
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 118 -> 118 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 118 -> 118 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   118 - 1 = 117 (u)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   118 - 3 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 5 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: use
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #16
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 117 -> 110 -> 126 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 110 -> 117 -> 112 -> 126 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 3 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 5 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 7 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 9 = 103 (g)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   126 - 11 = 115 (s)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: things
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #17
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 106 -> 123 -> 120 -> 108 -> 110 -> 113 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 106 -> 113 -> 120 -> 123 -> 110 -> 108 -> 113 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 1 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 3 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   120 - 5 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 7 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 9 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 11 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 13 = 100 (d)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: instead
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #18
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 105 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 112 -> 105 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 1 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   105 - 3 = 102 (f)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: of
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #19
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 118 -> 118 -> 117 -> 110 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 118 -> 118 -> 110 -> 117 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   118 - 1 = 117 (u)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   118 - 3 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 5 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 7 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 9 = 103 (g)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: using
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #20
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 113 -> 119 -> 116 -> 112 -> 117 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 104 -> 116 -> 119 -> 117 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 1 = 112 (p)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   104 - 3 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   116 - 5 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   119 - 7 = 112 (p)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 9 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 11 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: people
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #21
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 98 -> 105 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> 113 -> 105 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   98 - 1 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 3 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   105 - 5 = 100 (d)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: and
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #22
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 109 -> 112 -> 123 -> 114 -> 119 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 114 -> 123 -> 112 -> 119 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   109 - 1 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 5 = 118 (v)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 7 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   119 - 9 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 11 = 103 (g)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: loving
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #23
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 107 -> 117 -> 117 -> 110 -> 126 -> 112 -> 59 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 107 -> 110 -> 117 -> 112 -> 126 -> 59 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 3 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 5 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 7 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 9 = 103 (g)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   126 - 11 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   59 - 13 = 46 (.)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: things.
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase desencriptada completa: What most people need to learn in life is how to love people and use things instead of using people and loving things.
+
+2025-09-11 12:37:58 [INFO] main.Main - Desencriptando frase #5
+2025-09-11 12:37:58 [INFO] modelo.Frase - === PROCESO DE DESENCRIPTACION ===
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase encriptada (texto): lMlk xn{x hc b rdzsl}{ gfjzj~vN qpj xn{x hmyfw yfyjxuzA ugtt sthjttv{ ru |eun9p
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #1
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 108 -> 77 -> 108 -> 107 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 77 -> 108 -> 107 -> 108 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   77 - 1 = 76 (L)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 3 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   107 - 5 = 102 (f)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 7 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: Life
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #2
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 120 -> 110 -> 123 -> 120 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 110 -> 120 -> 120 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 1 = 109 (m)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   120 - 3 = 117 (u)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   120 - 5 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 7 = 116 (t)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: must
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #3
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 99 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 99 -> 104 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   99 - 1 = 98 (b)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   104 - 3 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: be
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #4
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 98 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   98 - 1 = 97 (a)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: a
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #5
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 100 -> 122 -> 115 -> 108 -> 125 -> 131 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 100 -> 114 -> 115 -> 122 -> 125 -> 108 -> 123 -> 131 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   100 - 1 = 99 (c)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   115 - 5 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   122 - 7 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   125 - 9 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   108 - 11 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 13 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   131 - 15 = 116 (t)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: constant
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #6
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 103 -> 102 -> 106 -> 122 -> 127 -> 106 -> 126 -> 118 -> 78 -> 127 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 102 -> 103 -> 122 -> 106 -> 106 -> 127 -> 118 -> 126 -> 127 -> 78 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   102 - 1 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   103 - 3 = 100 (d)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   122 - 5 = 117 (u)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 7 = 99 (c)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 9 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   127 - 11 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   118 - 13 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   126 - 15 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   127 - 17 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   78 - 19 = 59 (;)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: education;
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #7
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 113 -> 112 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 112 -> 113 -> 106 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 1 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   113 - 3 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 5 = 101 (e)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: one
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #8
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 120 -> 110 -> 123 -> 120 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 110 -> 120 -> 120 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 1 = 109 (m)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   120 - 3 = 117 (u)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   120 - 5 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 7 = 116 (t)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: must
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #9
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 104 -> 109 -> 121 -> 102 -> 119 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 109 -> 104 -> 102 -> 121 -> 119 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   109 - 1 = 108 (l)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   104 - 3 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   102 - 5 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   121 - 7 = 114 (r)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   119 - 9 = 110 (n)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: learn
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #10
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 121 -> 102 -> 121 -> 106 -> 127 -> 130 -> 120 -> 117 -> 122 -> 127 -> 65 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 102 -> 121 -> 106 -> 121 -> 130 -> 127 -> 117 -> 120 -> 127 -> 122 -> 65 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   102 - 1 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   121 - 3 = 118 (v)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 5 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   121 - 7 = 114 (r)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   130 - 9 = 121 (y)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   127 - 11 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 13 = 104 (h)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   120 - 15 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   127 - 17 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   122 - 19 = 103 (g)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   65 - 21 = 44 (,)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: everything,
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #11
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 103 -> 116 -> 116 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 103 -> 117 -> 116 -> 116 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   103 - 1 = 102 (f)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 3 = 114 (r)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   116 - 5 = 111 (o)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   116 - 7 = 109 (m)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: from
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #12
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 115 -> 116 -> 104 -> 106 -> 116 -> 116 -> 118 -> 123 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 116 -> 115 -> 106 -> 104 -> 116 -> 116 -> 123 -> 118 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   116 - 1 = 115 (s)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   115 - 3 = 112 (p)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   106 - 5 = 101 (e)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   104 - 7 = 97 (a)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   116 - 9 = 107 (k)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   116 - 11 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   123 - 13 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   118 - 15 = 103 (g)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: speaking
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #13
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 114 -> 117 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 117 -> 114 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 1 = 116 (t)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   114 - 3 = 111 (o)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: to
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra #14
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Encriptada como:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 124 -> 101 -> 117 -> 110 -> 57 -> 112 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - Intercambio de adyacentes realizado
+2025-09-11 12:37:58 [DEBUG] modelo.Frase - Despues de revertir intercambio:
+2025-09-11 12:37:58 [DEBUG] modelo.ListaEnlazada - 101 -> 124 -> 110 -> 117 -> 112 -> 57 -> null
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   101 - 1 = 100 (d)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   124 - 3 = 121 (y)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   110 - 5 = 105 (i)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   117 - 7 = 110 (n)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   112 - 9 = 103 (g)
+2025-09-11 12:37:58 [DEBUG] modelo.Frase -   57 - 11 = 46 (.)
+2025-09-11 12:37:58 [INFO] modelo.Frase - Palabra desencriptada: dying.
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - --------------------------------------------------
+
+2025-09-11 12:37:58 [INFO] modelo.Frase - Frase desencriptada completa: Life must be a constant education; one must learn everything, from speaking to dying.
+
+2025-09-11 12:37:58 [INFO] main.Main - Duracion total del programa: 1449 ms
+2025-09-11 12:37:58 [INFO] main.Main - Memoria usada: 35870 KB
+2025-09-11 12:37:58 [INFO] main.Main - Programa finalizado correctamente.

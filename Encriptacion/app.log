@@ -1,0 +1,824 @@
+sept 10, 2025 5:37:46 P. M. main.Main main
+INFO: Inicio del programa
+sept 10, 2025 5:37:47 P. M. main.Main main
+INFO: === Nueva frase ===
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Iniciando encriptación de la frase: Awaken. Take heed, do not squander your life.
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Procesando palabra: Awaken.
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 66
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  A (65) +1 -> 66
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 122
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  w (119) +3 -> 122
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 102
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  a (97) +5 -> 102
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 114
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  k (107) +7 -> 114
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 110
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  e (101) +9 -> 110
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 121
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  n (110) +11 -> 121
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 59
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  . (46) +13 -> 59
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Palabra encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 66 -> 122 -> 102 -> 114 -> 110 -> 121 -> 59 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Después de intercambiar:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 122 -> 66 -> 114 -> 102 -> 121 -> 110 -> 59 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Tiempo en encriptar palabra 'Awaken.': 37 ms
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Procesando palabra: Take
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 85
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  T (84) +1 -> 85
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 100
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  a (97) +3 -> 100
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 112
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  k (107) +5 -> 112
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 108
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  e (101) +7 -> 108
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Palabra encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 85 -> 100 -> 112 -> 108 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Después de intercambiar:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 100 -> 85 -> 108 -> 112 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Tiempo en encriptar palabra 'Take': 6 ms
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Procesando palabra: heed,
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 105
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  h (104) +1 -> 105
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 104
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  e (101) +3 -> 104
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 106
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  e (101) +5 -> 106
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 107
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  d (100) +7 -> 107
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 53
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  , (44) +9 -> 53
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Palabra encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 105 -> 104 -> 106 -> 107 -> 53 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Después de intercambiar:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 104 -> 105 -> 107 -> 106 -> 53 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Tiempo en encriptar palabra 'heed,': 11 ms
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Procesando palabra: do
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 101
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  d (100) +1 -> 101
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 114
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  o (111) +3 -> 114
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Palabra encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 101 -> 114 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Después de intercambiar:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 114 -> 101 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Tiempo en encriptar palabra 'do': 3 ms
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Procesando palabra: not
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 111
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  n (110) +1 -> 111
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 114
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  o (111) +3 -> 114
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 121
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  t (116) +5 -> 121
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Palabra encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 111 -> 114 -> 121 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Después de intercambiar:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 114 -> 111 -> 121 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Tiempo en encriptar palabra 'not': 3 ms
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Procesando palabra: squander
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 116
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  s (115) +1 -> 116
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 116
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  q (113) +3 -> 116
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 122
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  u (117) +5 -> 122
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 104
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  a (97) +7 -> 104
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 119
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  n (110) +9 -> 119
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 111
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  d (100) +11 -> 111
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 114
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  e (101) +13 -> 114
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 129
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  r (114) +15 -> 129
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Palabra encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 116 -> 116 -> 122 -> 104 -> 119 -> 111 -> 114 -> 129 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Después de intercambiar:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 116 -> 116 -> 104 -> 122 -> 111 -> 119 -> 129 -> 114 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Tiempo en encriptar palabra 'squander': 4 ms
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Procesando palabra: your
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 122
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  y (121) +1 -> 122
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 114
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  o (111) +3 -> 114
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 122
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  u (117) +5 -> 122
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 121
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  r (114) +7 -> 121
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Palabra encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 122 -> 114 -> 122 -> 121 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Después de intercambiar:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 114 -> 122 -> 121 -> 122 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Tiempo en encriptar palabra 'your': 2 ms
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Procesando palabra: life.
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 109
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  l (108) +1 -> 109
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 108
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  i (105) +3 -> 108
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 107
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  f (102) +5 -> 107
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 108
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  e (101) +7 -> 108
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada insertar
+FINE: Insertado nodo con valor: 55
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+FINE:  . (46) +9 -> 55
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Palabra encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 109 -> 108 -> 107 -> 108 -> 55 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Después de intercambiar:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 108 -> 109 -> 108 -> 107 -> 55 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Tiempo en encriptar palabra 'life.': 8 ms
+sept 10, 2025 5:37:47 P. M. modelo.Frase procesarFrases
+INFO: Memoria usada tras encriptar frase: 32 MB
+sept 10, 2025 5:37:47 P. M. main.Main main
+INFO: ========== FASE #2: DESENCRIPTACIÓN ==========
+sept 10, 2025 5:37:47 P. M. main.Main main
+INFO: Procesando frase #1
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Iniciando desencriptación...
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Frase encriptada (texto): zBrfyn; dUlp hikj5 re roy tthzowr rzyz lmlk7
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra #1 encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 122 -> 66 -> 114 -> 102 -> 121 -> 110 -> 59 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Después de revertir intercambio:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 66 -> 122 -> 102 -> 114 -> 110 -> 121 -> 59 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  66 -1 -> 65 (A)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  122 -3 -> 119 (w)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  102 -5 -> 97 (a)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  114 -7 -> 107 (k)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  110 -9 -> 101 (e)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  121 -11 -> 110 (n)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  59 -13 -> 46 (.)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra encriptada (texto): Bzfrny;
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra desencriptada: Awaken.
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra #2 encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 100 -> 85 -> 108 -> 112 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Después de revertir intercambio:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 85 -> 100 -> 112 -> 108 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  85 -1 -> 84 (T)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  100 -3 -> 97 (a)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  112 -5 -> 107 (k)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  108 -7 -> 101 (e)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra encriptada (texto): Udpl
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra desencriptada: Take
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra #3 encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 104 -> 105 -> 107 -> 106 -> 53 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Después de revertir intercambio:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 105 -> 104 -> 106 -> 107 -> 53 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  105 -1 -> 104 (h)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  104 -3 -> 101 (e)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  106 -5 -> 101 (e)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  107 -7 -> 100 (d)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  53 -9 -> 44 (,)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra encriptada (texto): ihjk5
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra desencriptada: heed,
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra #4 encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 114 -> 101 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Después de revertir intercambio:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 101 -> 114 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  101 -1 -> 100 (d)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  114 -3 -> 111 (o)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra encriptada (texto): er
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra desencriptada: do
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra #5 encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 114 -> 111 -> 121 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Después de revertir intercambio:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 111 -> 114 -> 121 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  111 -1 -> 110 (n)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  114 -3 -> 111 (o)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  121 -5 -> 116 (t)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra encriptada (texto): ory
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra desencriptada: not
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra #6 encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 116 -> 116 -> 104 -> 122 -> 111 -> 119 -> 129 -> 114 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Después de revertir intercambio:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 116 -> 116 -> 122 -> 104 -> 119 -> 111 -> 114 -> 129 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  116 -1 -> 115 (s)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  116 -3 -> 113 (q)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  122 -5 -> 117 (u)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  104 -7 -> 97 (a)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  119 -9 -> 110 (n)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  111 -11 -> 100 (d)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  114 -13 -> 101 (e)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  129 -15 -> 114 (r)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra encriptada (texto): ttzhwor
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra desencriptada: squander
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra #7 encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 114 -> 122 -> 121 -> 122 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Después de revertir intercambio:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 122 -> 114 -> 122 -> 121 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  122 -1 -> 121 (y)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  114 -3 -> 111 (o)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  122 -5 -> 117 (u)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  121 -7 -> 114 (r)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra encriptada (texto): zrzy
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra desencriptada: your
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra #8 encriptada (lista):
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 108 -> 109 -> 108 -> 107 -> 55 -> null
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+FINE: Intercambio de nodos adyacentes realizado.
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Después de revertir intercambio:
+sept 10, 2025 5:37:47 P. M. modelo.ListaEnlazada mostrar
+INFO: 109 -> 108 -> 107 -> 108 -> 55 -> null
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  109 -1 -> 108 (l)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  108 -3 -> 105 (i)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  107 -5 -> 102 (f)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  108 -7 -> 101 (e)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+FINE:  55 -9 -> 46 (.)
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra encriptada (texto): mlkl7
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Palabra desencriptada: life.
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Frase desencriptada completa: Awaken. Take heed, do not squander your life.
+sept 10, 2025 5:37:47 P. M. modelo.Frase desencriptarFrase
+INFO: Memoria usada tras desencriptar frase: 34 MB
+sept 10, 2025 5:37:47 P. M. main.Main main
+INFO: Ejecución total: 1355 ms
+sept 10, 2025 5:37:47 P. M. main.Main main
+INFO: Memoria usada al final: 34 MB
+sept 10, 2025 5:45:19 P. M. main.Main main
+INFO: Entrando a Main.main()
+sept 10, 2025 5:45:21 P. M. modelo.Frase <init>
+INFO: Se creó un objeto Frase con contenido: "Every man gotta right to decide his own destiny."
+sept 10, 2025 5:45:21 P. M. modelo.Frase procesarFrases
+INFO: Entrando a método procesarFrases()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 70
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 121
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 106
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 121
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 130
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 110
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 100
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 115
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 104
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 114
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 121
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 123
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 106
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 115
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 108
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 108
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 111
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 125
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 117
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 114
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 101
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 104
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 104
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 112
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 109
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 112
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 105
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 108
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 120
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 112
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 122
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 115
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 101
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 104
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 120
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 123
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 114
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 121
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 134
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada insertar
+INFO: Entrando a método insertar() con valor: 61
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.Frase <init>
+INFO: Se creó un objeto Frase con contenido: ""
+sept 10, 2025 5:45:21 P. M. modelo.Frase desencriptarFrase
+INFO: Entrando a método desencriptarFrase()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. modelo.ListaEnlazada intercambiarAdyacentes
+INFO: Entrando a método intercambiarAdyacentes()
+sept 10, 2025 5:45:21 P. M. main.Main main
+INFO: Finalizó la ejecución de Main.main()
+[17:53:31] [INFO] Entrando a Main.main()
+[17:53:32] [INFO] Se creó un objeto Frase con contenido: "Understanding that rests in what it does not understand is the finest."
+[17:53:32] [INFO] Entrando a método procesarFrases()
+[17:53:32] [INFO] Entrando a método insertar() con valor: 86
+[17:53:32] [INFO] Entrando a método insertar() con valor: 113
+[17:53:32] [INFO] Entrando a método insertar() con valor: 105
+[17:53:32] [INFO] Entrando a método insertar() con valor: 108
+[17:53:32] [INFO] Entrando a método insertar() con valor: 123
+[17:53:32] [INFO] Entrando a método insertar() con valor: 126
+[17:53:32] [INFO] Entrando a método insertar() con valor: 129
+[17:53:32] [INFO] Entrando a método insertar() con valor: 112
+[17:53:32] [INFO] Entrando a método insertar() con valor: 127
+[17:53:32] [INFO] Entrando a método insertar() con valor: 119
+[17:53:32] [INFO] Entrando a método insertar() con valor: 126
+[17:53:32] [INFO] Entrando a método insertar() con valor: 133
+[17:53:32] [INFO] Entrando a método insertar() con valor: 128
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método insertar() con valor: 117
+[17:53:32] [INFO] Entrando a método insertar() con valor: 107
+[17:53:32] [INFO] Entrando a método insertar() con valor: 102
+[17:53:32] [INFO] Entrando a método insertar() con valor: 123
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método insertar() con valor: 115
+[17:53:32] [INFO] Entrando a método insertar() con valor: 104
+[17:53:32] [INFO] Entrando a método insertar() con valor: 120
+[17:53:32] [INFO] Entrando a método insertar() con valor: 123
+[17:53:32] [INFO] Entrando a método insertar() con valor: 124
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método insertar() con valor: 106
+[17:53:32] [INFO] Entrando a método insertar() con valor: 113
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método insertar() con valor: 120
+[17:53:32] [INFO] Entrando a método insertar() con valor: 107
+[17:53:32] [INFO] Entrando a método insertar() con valor: 102
+[17:53:32] [INFO] Entrando a método insertar() con valor: 123
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método insertar() con valor: 106
+[17:53:32] [INFO] Entrando a método insertar() con valor: 119
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método insertar() con valor: 101
+[17:53:32] [INFO] Entrando a método insertar() con valor: 114
+[17:53:32] [INFO] Entrando a método insertar() con valor: 106
+[17:53:32] [INFO] Entrando a método insertar() con valor: 122
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método insertar() con valor: 111
+[17:53:32] [INFO] Entrando a método insertar() con valor: 114
+[17:53:32] [INFO] Entrando a método insertar() con valor: 121
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método insertar() con valor: 118
+[17:53:32] [INFO] Entrando a método insertar() con valor: 113
+[17:53:32] [INFO] Entrando a método insertar() con valor: 105
+[17:53:32] [INFO] Entrando a método insertar() con valor: 108
+[17:53:32] [INFO] Entrando a método insertar() con valor: 123
+[17:53:32] [INFO] Entrando a método insertar() con valor: 126
+[17:53:32] [INFO] Entrando a método insertar() con valor: 129
+[17:53:32] [INFO] Entrando a método insertar() con valor: 112
+[17:53:32] [INFO] Entrando a método insertar() con valor: 127
+[17:53:32] [INFO] Entrando a método insertar() con valor: 119
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método insertar() con valor: 106
+[17:53:32] [INFO] Entrando a método insertar() con valor: 118
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método insertar() con valor: 117
+[17:53:32] [INFO] Entrando a método insertar() con valor: 107
+[17:53:32] [INFO] Entrando a método insertar() con valor: 106
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método insertar() con valor: 103
+[17:53:32] [INFO] Entrando a método insertar() con valor: 108
+[17:53:32] [INFO] Entrando a método insertar() con valor: 115
+[17:53:32] [INFO] Entrando a método insertar() con valor: 108
+[17:53:32] [INFO] Entrando a método insertar() con valor: 124
+[17:53:32] [INFO] Entrando a método insertar() con valor: 127
+[17:53:32] [INFO] Entrando a método insertar() con valor: 59
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Se creó un objeto Frase con contenido: ""
+[17:53:32] [INFO] Entrando a método desencriptarFrase()
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:32] [INFO] Finalizó la ejecución de Main.main()
+[17:53:36] [INFO] Entrando a Main.main()
+[17:53:37] [INFO] Se creó un objeto Frase con contenido: "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."
+[17:53:37] [INFO] Entrando a método procesarFrases()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 71
+[17:53:37] [INFO] Entrando a método insertar() con valor: 117
+[17:53:37] [INFO] Entrando a método insertar() con valor: 106
+[17:53:37] [INFO] Entrando a método insertar() con valor: 108
+[17:53:37] [INFO] Entrando a método insertar() con valor: 109
+[17:53:37] [INFO] Entrando a método insertar() con valor: 122
+[17:53:37] [INFO] Entrando a método insertar() con valor: 122
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 106
+[17:53:37] [INFO] Entrando a método insertar() con valor: 118
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 117
+[17:53:37] [INFO] Entrando a método insertar() con valor: 107
+[17:53:37] [INFO] Entrando a método insertar() con valor: 106
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 112
+[17:53:37] [INFO] Entrando a método insertar() con valor: 113
+[17:53:37] [INFO] Entrando a método insertar() con valor: 113
+[17:53:37] [INFO] Entrando a método insertar() con valor: 128
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 120
+[17:53:37] [INFO] Entrando a método insertar() con valor: 114
+[17:53:37] [INFO] Entrando a método insertar() con valor: 119
+[17:53:37] [INFO] Entrando a método insertar() con valor: 123
+[17:53:37] [INFO] Entrando a método insertar() con valor: 113
+[17:53:37] [INFO] Entrando a método insertar() con valor: 132
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 104
+[17:53:37] [INFO] Entrando a método insertar() con valor: 114
+[17:53:37] [INFO] Entrando a método insertar() con valor: 102
+[17:53:37] [INFO] Entrando a método insertar() con valor: 115
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 106
+[17:53:37] [INFO] Entrando a método insertar() con valor: 113
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 109
+[17:53:37] [INFO] Entrando a método insertar() con valor: 108
+[17:53:37] [INFO] Entrando a método insertar() con valor: 107
+[17:53:37] [INFO] Entrando a método insertar() con valor: 108
+[17:53:37] [INFO] Entrando a método insertar() con valor: 55
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 74
+[17:53:37] [INFO] Entrando a método insertar() con valor: 119
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 106
+[17:53:37] [INFO] Entrando a método insertar() con valor: 118
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 120
+[17:53:37] [INFO] Entrando a método insertar() con valor: 114
+[17:53:37] [INFO] Entrando a método insertar() con valor: 115
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 99
+[17:53:37] [INFO] Entrando a método insertar() con valor: 124
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 101
+[17:53:37] [INFO] Entrando a método insertar() con valor: 108
+[17:53:37] [INFO] Entrando a método insertar() con valor: 120
+[17:53:37] [INFO] Entrando a método insertar() con valor: 121
+[17:53:37] [INFO] Entrando a método insertar() con valor: 110
+[17:53:37] [INFO] Entrando a método insertar() con valor: 114
+[17:53:37] [INFO] Entrando a método insertar() con valor: 110
+[17:53:37] [INFO] Entrando a método insertar() con valor: 129
+[17:53:37] [INFO] Entrando a método insertar() con valor: 117
+[17:53:37] [INFO] Entrando a método insertar() con valor: 124
+[17:53:37] [INFO] Entrando a método insertar() con valor: 131
+[17:53:37] [INFO] Entrando a método insertar() con valor: 126
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 117
+[17:53:37] [INFO] Entrando a método insertar() con valor: 107
+[17:53:37] [INFO] Entrando a método insertar() con valor: 110
+[17:53:37] [INFO] Entrando a método insertar() con valor: 117
+[17:53:37] [INFO] Entrando a método insertar() con valor: 112
+[17:53:37] [INFO] Entrando a método insertar() con valor: 126
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 117
+[17:53:37] [INFO] Entrando a método insertar() con valor: 107
+[17:53:37] [INFO] Entrando a método insertar() con valor: 102
+[17:53:37] [INFO] Entrando a método insertar() con valor: 123
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 109
+[17:53:37] [INFO] Entrando a método insertar() con valor: 108
+[17:53:37] [INFO] Entrando a método insertar() con valor: 106
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 99
+[17:53:37] [INFO] Entrando a método insertar() con valor: 104
+[17:53:37] [INFO] Entrando a método insertar() con valor: 126
+[17:53:37] [INFO] Entrando a método insertar() con valor: 118
+[17:53:37] [INFO] Entrando a método insertar() con valor: 119
+[17:53:37] [INFO] Entrando a método insertar() con valor: 111
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 112
+[17:53:37] [INFO] Entrando a método insertar() con valor: 120
+[17:53:37] [INFO] Entrando a método insertar() con valor: 119
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método insertar() con valor: 100
+[17:53:37] [INFO] Entrando a método insertar() con valor: 114
+[17:53:37] [INFO] Entrando a método insertar() con valor: 115
+[17:53:37] [INFO] Entrando a método insertar() con valor: 123
+[17:53:37] [INFO] Entrando a método insertar() con valor: 123
+[17:53:37] [INFO] Entrando a método insertar() con valor: 122
+[17:53:37] [INFO] Entrando a método insertar() con valor: 121
+[17:53:37] [INFO] Entrando a método insertar() con valor: 61
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Se creó un objeto Frase con contenido: ""
+[17:53:37] [INFO] Entrando a método desencriptarFrase()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Entrando a método intercambiarAdyacentes()
+[17:53:37] [INFO] Finalizó la ejecución de Main.main()
+[32m[17:58:31] [INFO] Entrando a Main.main()[0m
+[32m[17:58:31] [INFO] Se creó un objeto Frase con contenido: "Every man gotta right to decide his own destiny."[0m
+[32m[17:58:31] [INFO] Entrando a método procesarFrases()[0m
